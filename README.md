@@ -10,7 +10,7 @@ Can be used to analyse one to one conversations, group conversations and even mi
         - First argument (mandatory) is the path to messages source folder (the messages must be directly below the folder)
         - Second argument (optional) is the path to the config.json file, by default it's in Config/config.json
 ```
-python Instagram_Messages_Statistics [source folder / file path] [(optional) config file path]
+python Instagram_Messages_Statistics [source folder path] [(optional) config file path]
 ```
 
 ### CONFIG:
